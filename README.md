@@ -40,6 +40,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Release Management
 *Libraries and tools for release management.*
 
+* [relx](https://github.com/erlware/relx) - A release assembler for Erlang.
+
 ## Frameworks
 *Web development frameworks.*
 
@@ -57,6 +59,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 ## Build Tools
 *Project build and automation tools.*
+
+* [rebar](https://github.com/rebar/rebar) - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
@@ -100,6 +104,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 ## Algorithms and Datastructures
 *Libraries and implementations of algorithms and datastructures.*
+
+* [erlando](https://github.com/travelping/erlando) - A set of syntax extensions like currying and monads for Erlang.
+* [statebox](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities.
 
 ## Translations and Internationalizations
 *Libraries providing translations or internationalizations.*
