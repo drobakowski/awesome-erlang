@@ -4,8 +4,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 - [Awesome Erlang](#awesome-Erlang)
     - [Package Management](#package-management)
     - [Release Management](#release-management)
-    - [Frameworks](#frameworks)
-    - [Framework Components](#framework-components)
+    - [Web Frameworks](#web-frameworks)
+    - [Web Framework Components](#web-framework-components)
     - [HTTP](#http)
     - [Testing](#testing)
     - [Code Analysis](#code-analysis)
@@ -42,11 +42,15 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [relx](https://github.com/erlware/relx) - A release assembler for Erlang.
 
-## Frameworks
+## Web Frameworks
 *Web development frameworks.*
 
-## Framework Components
+* [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang.
+
+## Web Framework Components
 *Standalone component from web development frameworks.*
+
+* [cb_admin](https://github.com/ChicagoBoss/cb_admin) - An admin interface for Chicago Boss.
 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
@@ -78,6 +82,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 ## ORM and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
+
+* [boss_db](https://github.com/ChicagoBoss/boss_db) - A sharded, caching, pooling, evented ORM for Erlang.
 
 ## Queue
 *Libraries for working with event and task queues.*
