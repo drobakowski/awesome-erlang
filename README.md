@@ -54,6 +54,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
+* [cowboy](https://github.com/extend/cowboy) - A simple HTTP server.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
@@ -98,12 +99,15 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
+* [leptus](https://github.com/s1n4/leptus) - Leptus is an Erlang REST framework that runs on top of cowboy.
 
 ## Caching
 *Libraries for caching data.*
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
+* [restc](https://github.com/kivra/restclient) - An Erlang REST client
+* [oauth2c](https://github.com/kivra/oauth2_client) - An Erlang oAuth 2 client (uses restc)
 
 ## Networking
 *Libraries and tools for using network related stuff.*
@@ -128,6 +132,8 @@ Various resources, such as books, websites and articles, for improving your Erla
 
 ## Books
 *Fantastic books and e-books.*
+
+* [Learn You Some Erlang](http://learnyousomeerlang.com/) - Learn you some Erlang - for great good! A very thorough resource covering everything from beginning Erlang programming to large-scale development and deployment.
 
 ## Web Reading
 *General web-development-related reading materials.*
