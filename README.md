@@ -8,6 +8,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
     - [Web Framework Components](#web-framework-components)
     - [HTTP](#http)
     - [Testing](#testing)
+    - [Logging](#logging)
     - [Code Analysis](#code-analysis)
     - [Build Tools](#build-tools)
     - [Geolocation](#geolocation)
@@ -45,8 +46,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Web Frameworks
 *Web development frameworks.*
 
-* [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang.
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra).
+* [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang.
+* [cowboy](https://github.com/extend/cowboy) - A simple HTTP server.
 
 ## Web Framework Components
 *Standalone component from web development frameworks.*
@@ -55,13 +57,25 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
-* [cowboy](https://github.com/extend/cowboy) - A simple HTTP server.
+
+* [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
 
+* [PropEr](https://github.com/manopapad/proper) - A QuickCheck-inspired property-based testing tool for Erlang.
+
+## Logging
+*Libraries for generating and working with log files.*
+
+* [lager](https://github.com/basho/lager) - A logging framework for Erlang/OTP.
+* [lager_hipchat](https://github.com/synlay/lager_hipchat) - HipChat backend for lager.
+* [lager_loggly](https://github.com/kivra/lager_loggly) - Loggly backend for lager.
+
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
+
+* [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang.
 
 ## Build Tools
 *Project build and automation tools.*
@@ -90,8 +104,12 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Queue
 *Libraries for working with event and task queues.*
 
+* [tinymq](https://github.com/ChicagoBoss/tinymq) - A diminutive, in-memory message queue for Erlang.
+
 ## Authentication
 *Libraries for implementing authentications schemes.*
+
+* [oauth2](https://github.com/kivra/oauth2) - Erlang Oauth2 implementation.
 
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
@@ -100,6 +118,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
+
 * [leptus](https://github.com/s1n4/leptus) - Leptus is an Erlang REST framework that runs on top of cowboy.
 
 ## Caching
@@ -107,6 +126,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
+
 * [restc](https://github.com/kivra/restclient) - An Erlang REST client
 * [oauth2c](https://github.com/kivra/oauth2_client) - An Erlang oAuth 2 client (uses restc)
 
