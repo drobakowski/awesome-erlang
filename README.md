@@ -1,5 +1,5 @@
 # Awesome Erlang
-A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://https://github.com/h4cc/awesome-elixir).
+A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir).
 
 - [Awesome Erlang](#awesome-Erlang)
     - [Package Management](#package-management)
