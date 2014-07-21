@@ -138,6 +138,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [erlando](https://github.com/travelping/erlando) - A set of syntax extensions like currying and monads for Erlang.
 * [statebox](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities.
+* [riak_dt](https://github.com/basho/riak_dt) - Erlang library of state based CRDTs.
 
 ## Translations and Internationalizations
 *Libraries providing translations or internationalizations.*
