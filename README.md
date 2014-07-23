@@ -74,7 +74,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [lager_loggly](https://github.com/kivra/lager_loggly) - Loggly backend for lager.
 
 ## Monitoring
-*Libraries for system monitoring.*
+*Libraries for gathering metrics and monitoring.*
 
 * [entop](https://github.com/mazenharake/entop) - A top-like Erlang node monitoring tool.
 * [eper](https://github.com/massemanet/eper) - A loose collection of Erlang Performance related tools.
