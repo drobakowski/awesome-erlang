@@ -70,8 +70,11 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for generating and working with log files.*
 
 * [lager](https://github.com/basho/lager) - A logging framework for Erlang/OTP.
+* [lager_amqp_backend](https://github.com/jbrisbin/lager_amqp_backend) - AMQP RabbitMQ Lager backend.
 * [lager_hipchat](https://github.com/synlay/lager_hipchat) - HipChat backend for lager.
 * [lager_loggly](https://github.com/kivra/lager_loggly) - Loggly backend for lager.
+* [lager_smtp](https://github.com/blinkov/lager_smtp) - SMTP backend for lager.
+* [logplex](https://github.com/heroku/logplex) - Heroku log router.
 
 ## Monitoring
 *Libraries for gathering metrics and monitoring.*
