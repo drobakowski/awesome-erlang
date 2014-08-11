@@ -50,11 +50,15 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [Axiom](https://github.com/tsujigiri/axiom) - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra).
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang.
 * [cowboy](https://github.com/extend/cowboy) - A simple HTTP server.
+* [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/extend/cowboy).
+* [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers.
 
 ## Web Framework Components
 *Standalone component from web development frameworks.*
 
 * [cb_admin](https://github.com/ChicagoBoss/cb_admin) - An admin interface for Chicago Boss.
+* [cb_websocket_controller](https://github.com/dkuhlman/cb_websocket_controller) - A template for implementing a Websocket controller for ChicagoBoss.
+* [giallo_session](https://github.com/kivra/giallo_session) - A session management library for the Giallo web framework.
 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
