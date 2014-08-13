@@ -103,6 +103,10 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
+* [erl-rstar](https://github.com/armon/erl-rstar) - An Erlang implementation of the R*-tree spacial data structure.
+* [GeoCouch](https://github.com/couchbase/geocouch) - A spatial extension for Couchbase and Apache CouchDB.
+* [Teles](https://github.com/armon/teles) - An Erlang network service for manipulating geographic data.
+
 ## Debugging
 *Libraries and tools for debugging code and applications.*
 
