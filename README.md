@@ -110,6 +110,10 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Debugging
 *Libraries and tools for debugging code and applications.*
 
+* [eper](https://github.com/massemanet/eper) - a loose collection of 
+  performance-related tools: profiler, graphical monitor, 3 top-style monitors
+  and redbug (awesome interface to trace).
+
 ## Actors
 *Libraries and tools for working with actors and such.*
 
