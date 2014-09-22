@@ -110,6 +110,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Debugging
 *Libraries and tools for debugging code and applications.*
 
+* [tx](https://github.com/kvakvs/tx) - An HTML Erlang term viewer, starts own webserver and displays any term you give it from your Erlang node.
+
 ## Actors
 *Libraries and tools for working with actors and such.*
 
