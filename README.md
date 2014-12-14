@@ -39,6 +39,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Package Management
 *Libraries and tools for package and dependency management.*
 
+* [agner](https://github.com/agner/agner) - Erlang package manager (A Giant Nebula of Erlang Repositories)
+
 ## Release Management
 *Libraries and tools for release management.*
 
