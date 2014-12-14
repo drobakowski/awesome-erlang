@@ -64,6 +64,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for working with HTTP and scraping websites.*
 
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
+* [hackney](https://github.com/benoitc/hackney) - simple HTTP client in Erlang
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
@@ -156,6 +157,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for using network related stuff.*
 
 * [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols
+* [barrel](https://github.com/benoitc/barrel) - barrel is a generic TCP acceptor pool with low latency in Erlang. 
+* [upnp](https://github.com/benoitc/upnp) - Erlang UPNP Module
 
 ## Algorithms and Datastructures
 *Libraries and implementations of algorithms and datastructures.*
