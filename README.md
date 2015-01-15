@@ -139,7 +139,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
 
-* [jsx](https://github.com/talentdeficit/jsx) - an erlang application for consuming, producing and manipulating json.
+* [jsx](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json.
+* [jsxn](https://github.com/talentdeficit/jsxn) - This is just jsx but with maps instead of proplists
+* [jiffy](https://github.com/davisp/jiffy) - JSON NIFs for Erlang
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
