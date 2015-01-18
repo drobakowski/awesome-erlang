@@ -52,6 +52,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [cowboy](https://github.com/extend/cowboy) - A simple HTTP server.
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/extend/cowboy).
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers.
+* [N2O](https://github.com/5HT/n2o) - WebSocket Application Server.
 
 ## Web Framework Components
 *Standalone component from web development frameworks.*
