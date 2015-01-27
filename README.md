@@ -64,6 +64,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
 
+* [bullet](https://github.com/extend/bullet) - Simple, reliable, efficient streaming for Cowboy.
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
 
 ## Testing
