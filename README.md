@@ -160,6 +160,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Networking
 *Libraries and tools for using network related stuff.*
 
+* [gossiperl](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang
+
 ## Algorithms and Datastructures
 *Libraries and implementations of algorithms and datastructures.*
 
