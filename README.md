@@ -125,6 +125,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
 * [boss_db](https://github.com/ChicagoBoss/boss_db) - A sharded, caching, pooling, evented ORM for Erlang.
+* [mysql-otp](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 
 ## Queue
 *Libraries for working with event and task queues.*
