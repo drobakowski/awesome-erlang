@@ -72,6 +72,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for testing codebases and generating test data.*
 
 * [PropEr](https://github.com/manopapad/proper) - A QuickCheck-inspired property-based testing tool for Erlang.
+* [tracerl](https://github.com/esl/tracerl) - Dynamic tracing tests and utilities for Erlang/OTP
 
 ## Logging
 *Libraries for generating and working with log files.*
@@ -97,6 +98,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
 * [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang.
+* [Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs http://concuerror.com
 
 ## Build Tools
 *Project build and automation tools.*
@@ -191,6 +193,7 @@ Various resources, such as books, websites and articles, for improving your Erla
 *Fantastic books and e-books.*
 
 * [Learn You Some Erlang](http://learnyousomeerlang.com/) - Learn you some Erlang - for great good! A very thorough resource covering everything from beginning Erlang programming to large-scale development and deployment.
+* [Stuff Goes Bad - ERLANG IN ANGER](http://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war.
 
 ## Web Reading
 *General web-development-related reading materials.*
