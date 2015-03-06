@@ -67,6 +67,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
 * [hackney](https://github.com/benoitc/hackney) - simple HTTP client in Erlang
+* [gun](https://github.com/extend/gun) - Asynchronous SPDY, HTTP and Websocket client written in Erlang.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
