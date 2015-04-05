@@ -160,6 +160,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Networking
 *Libraries and tools for using network related stuff.*
 
+* [gen_tcp_server](https://github.com/rpt/gen_tcp_server) - A library that takes the concept of gen_server and introduces the same mechanics for operating a TCP server.
+
 ## Algorithms and Datastructures
 *Libraries and implementations of algorithms and datastructures.*
 
