@@ -127,6 +127,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
 * [boss_db](https://github.com/ChicagoBoss/boss_db) - A sharded, caching, pooling, evented ORM for Erlang.
+* [pgsql_migration](https://github.com/artemeff/pgsql_migration) – PostgreSQL migrations for Erlang.
 
 ## Queue
 *Libraries for working with event and task queues.*
