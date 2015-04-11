@@ -144,6 +144,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [eql](https://github.com/artemeff/eql) - library for using SQL.
 * [jsx](https://github.com/talentdeficit/jsx) - an erlang application for consuming, producing and manipulating json.
+* [qsp](https://github.com/artemeff/qsp) - Enhanced query string parser for Erlang.
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
