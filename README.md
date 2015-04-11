@@ -142,6 +142,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
 
+* [eql](https://github.com/artemeff/eql) - library for using SQL.
 * [jsx](https://github.com/talentdeficit/jsx) - an erlang application for consuming, producing and manipulating json.
 
 ## REST and API
