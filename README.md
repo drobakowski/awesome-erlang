@@ -186,6 +186,8 @@ Various resources, such as books, websites and articles, for improving your Erla
 *Fantastic books and e-books.*
 
 * [Learn You Some Erlang](http://learnyousomeerlang.com/) - Learn you some Erlang - for great good! A very thorough resource covering everything from beginning Erlang programming to large-scale development and deployment.
+* [Erlang in Anger](https://engineering.heroku.com/blogs/2014-09-17-erlang-in-anger) - Erlang in Anger Another great book from the author of Learn You Some Erlang. A collection of advice and know-how for problems that arise in large scale systems
+* [The Joy of Erlang; Or, How To Ride A Toruk](http://www.evanmiller.org/joy-of-erlang.html) - The Joy of Erlang; Or, How To Ride A Toruk A fast track introduction to Erlang that teaches the language by walking through a few example projects.
 
 ## Web Reading
 *General web-development-related reading materials.*
