@@ -182,6 +182,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
 
+* [erld](https://github.com/ShoreTel-Inc/erld) - erld is a small program designed to solve the problem of running Erlang programs as a UNIX daemon.
+
 # Resources
 Various resources, such as books, websites and articles, for improving your Erlang development skills and knowledge.
 
