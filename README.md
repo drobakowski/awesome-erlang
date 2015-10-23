@@ -67,6 +67,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [bullet](https://github.com/extend/bullet) - Simple, reliable, efficient streaming for Cowboy.
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
+* [hackney](https://github.com/benoitc/hackney) - An HTTP client library for Erlang.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
