@@ -123,6 +123,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Date and Time
 *Libraries for working with dates and times.*
 
+* [erlang_localtime](https://github.com/dmitryme/erlang_localtime) - Erlang library for conversion from one local time to another.
+* [qdate](https://github.com/choptastic/qdate) - Erlang date, time, and timezone management: formatting, conversion, and date arithmetic.
+
 ## ORM and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
