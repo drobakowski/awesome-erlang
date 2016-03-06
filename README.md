@@ -4,6 +4,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 - [Awesome Erlang](#awesome-Erlang)
     - [Package Management](#package-management)
     - [Release Management](#release-management)
+    - [Codebase Maintenance](#codebase-maintenance)
     - [Web Frameworks](#web-frameworks)
     - [Web Framework Components](#web-framework-components)
     - [HTTP](#http)
@@ -45,6 +46,11 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for release management.*
 
 * [relx](https://github.com/erlware/relx) - A release assembler for Erlang.
+
+## Codebase Maintenance
+*Libraries and tools to maintain a clean codebase.*
+
+* [elvis](https://github.com/inaka/elvis) - Erlang Style Reviewer.
 
 ## Web Frameworks
 *Web development frameworks.*
@@ -145,6 +151,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Queue
 *Libraries for working with event and task queues.*
 
+* [dq](https://github.com/darach/dq) - Distributed Fault Tolerant Queue library.
+* [ebqueue](https://github.com/rgrinberg/ebqueue) - Tiny simple blocking queue in erlang.
 * [tinymq](https://github.com/ChicagoBoss/tinymq) - A diminutive, in-memory message queue for Erlang.
 
 ## Authentication
