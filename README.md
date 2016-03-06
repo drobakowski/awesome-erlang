@@ -39,7 +39,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Package Management
 *Libraries and tools for package and dependency management.*
 
-* [hex.pm](https://hex.pm/) - Packmage for the Erlang ecosystem.
+* [hex.pm](https://hex.pm/) - A package manager for the Erlang ecosystem.
 
 ## Release Management
 *Libraries and tools for release management.*
