@@ -110,6 +110,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Project build and automation tools.*
 
 * [rebar](https://github.com/rebar/rebar) - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
+* [rebar3](https://github.com/rebar/rebar3) - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
