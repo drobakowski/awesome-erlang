@@ -4,6 +4,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 - [Awesome Erlang](#awesome-Erlang)
     - [Package Management](#package-management)
     - [Release Management](#release-management)
+    - [Configuration Management](#configuration-management)
     - [Codebase Maintenance](#codebase-maintenance)
     - [Web Frameworks](#web-frameworks)
     - [Web Framework Components](#web-framework-components)
@@ -46,6 +47,11 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for release management.*
 
 * [relx](https://github.com/erlware/relx) - A release assembler for Erlang.
+
+## Configuration Management
+*Libraries and tools related to configuration management.*
+
+* [stillir](https://github.com/heroku/stillir) - Cache environment variables as Erlang app variables.
 
 ## Codebase Maintenance
 *Libraries and tools to maintain a clean codebase.*
