@@ -66,7 +66,11 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for working with HTTP and scraping websites.*
 
 * [bullet](https://github.com/extend/bullet) - Simple, reliable, efficient streaming for Cowboy.
+* [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
+* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang.
+* [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client.
 * [lhttpc](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
+* [shotgun](https://github.com/inaka/shotgun) - For the times you need more than just a gun.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
