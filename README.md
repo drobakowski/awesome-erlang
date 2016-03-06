@@ -217,6 +217,8 @@ Various resources, such as books, websites and articles, for improving your Erla
 ## Erlang Reading
 *Erlang-releated reading materials.*
 
+* [The Joy of Erlang; Or, How To Ride A Toruk](http://www.evanmiller.org/joy-of-erlang.html) - The Joy of Erlang; Or, How To Ride A Toruk A fast track introduction to Erlang that teaches the language by walking through a few example projects.
+
 ## Screencasts
 *Cool video tutorials.*
 
