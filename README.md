@@ -153,6 +153,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [dq](https://github.com/darach/dq) - Distributed Fault Tolerant Queue library.
 * [ebqueue](https://github.com/rgrinberg/ebqueue) - Tiny simple blocking queue in erlang.
+* [pqueue](https://github.com/okeuday/pqueue) - Erlang Priority Queues.
 * [tinymq](https://github.com/ChicagoBoss/tinymq) - A diminutive, in-memory message queue for Erlang.
 
 ## Authentication
