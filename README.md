@@ -205,6 +205,7 @@ Various resources, such as books, websites and articles, for improving your Erla
 ## Websites
 *Useful web and Erlang-related websites and newsletters.*
 
+* [Erlang Bookmarks](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks) - All about erlang programming language [powerd by community].
 * [Erlang Central](https://erlangcentral.org/) - An awesome collections of erlang resource along with live community chat for discussing and seeking help.
 * [Planet Erlang](http://www.planeterlang.com/) - Planet site/RSS feed of blog posts covering topics across the Erlang ecosystem.
 
