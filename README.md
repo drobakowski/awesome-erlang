@@ -76,6 +76,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for testing codebases and generating test data.*
 
 * [PropEr](https://github.com/manopapad/proper) - A QuickCheck-inspired property-based testing tool for Erlang.
+* [tracerl](https://github.com/esl/tracerl) - Dynamic tracing tests and utilities for Erlang/OTP
 
 ## Logging
 *Libraries for generating and working with log files.*
@@ -100,6 +101,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
+* [Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs.
 * [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang.
 
 ## Build Tools
@@ -131,6 +133,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
 * [boss_db](https://github.com/ChicagoBoss/boss_db) - A sharded, caching, pooling, evented ORM for Erlang.
+* [mysql-otp](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 
 ## Queue
 *Libraries for working with event and task queues.*
@@ -145,7 +148,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
 
-* [jsx](https://github.com/talentdeficit/jsx) - an erlang application for consuming, producing and manipulating json.
+* [jiffy](https://github.com/davisp/jiffy) - JSON NIFs for Erlang.
+* [jsonrec](https://github.com/EduardSergeev/jsonrec) - JSON encoder/decoder with the ability to map to records.
+* [jsx](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json.
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
@@ -164,6 +169,10 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Networking
 *Libraries and tools for using network related stuff.*
 
+* [barrel_tcp](https://github.com/benoitc-attic/barrel_tcp) - barrel_tcp is a generic TCP acceptor pool with low latency in Erlang.
+* [nat_upnp](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD.
+* [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols.
+
 ## Algorithms and Datastructures
 *Libraries and implementations of algorithms and datastructures.*
 
@@ -176,6 +185,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
+
+* [erld](https://github.com/ShoreTel-Inc/erld) - erld is a small program designed to solve the problem of running Erlang programs as a UNIX daemon.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Erlang development skills and knowledge.
@@ -190,6 +201,7 @@ Various resources, such as books, websites and articles, for improving your Erla
 *Fantastic books and e-books.*
 
 * [Learn You Some Erlang](http://learnyousomeerlang.com/) - Learn you some Erlang - for great good! A very thorough resource covering everything from beginning Erlang programming to large-scale development and deployment.
+* [Stuff Goes Bad - ERLANG IN ANGER](http://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war.
 
 ## Web Reading
 *General web-development-related reading materials.*
