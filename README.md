@@ -140,6 +140,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [boss_db](https://github.com/ErlyORM/boss_db) - A sharded, caching, pooling, evented ORM for Erlang.
 * [mysql-otp](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
+* [pgsql_migration](https://github.com/artemeff/pgsql_migration) – PostgreSQL migrations for Erlang.
 
 ## Queue
 *Libraries for working with event and task queues.*
@@ -154,9 +155,11 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
 
+* [eql](https://github.com/artemeff/eql) - Erlang with SQL or not.
 * [jiffy](https://github.com/davisp/jiffy) - JSON NIFs for Erlang.
 * [jsonrec](https://github.com/EduardSergeev/jsonrec) - JSON encoder/decoder with the ability to map to records.
 * [jsx](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json.
+* [qsp](https://github.com/artemeff/qsp) - Enhanced query string parser for Erlang.
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
