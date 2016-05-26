@@ -26,6 +26,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
     - [Caching](#caching)
     - [Third Party APIs](#third-party-apis)
     - [Networking](#networking)
+    - [Internet of Things](#internet-of-things)
     - [Algorithms and Datastructures](#algorithms-and-datastructures)
     - [Translations and Internationalizations](#translations-and-internationalizations)
     - [Miscellaneous](#miscellaneous)
@@ -199,6 +200,10 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [gossiperl](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang.
 * [nat_upnp](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD.
 * [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols.
+
+## Internet of Things
+*Libraries and tools for interacting with the physical world.*
+* [lemma_erlang](https://github.com/noam-io/lemma_erlang) - A lemma for IDEO's Noam internet-of-things prototyping platform.
 
 ## Algorithms and Datastructures
 *Libraries and implementations of algorithms and datastructures.*
