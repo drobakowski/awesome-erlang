@@ -185,6 +185,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Caching
 *Libraries for caching data.*
 
+* [cache](https://github.com/fogfish/cache) - In-memory Segmented Cache
+
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 
