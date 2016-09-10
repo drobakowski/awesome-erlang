@@ -12,6 +12,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
     - [Testing](#testing)
     - [Logging](#logging)
     - [Monitoring](#monitoring)
+    - [Distributed Systems](#distributed-systems)
     - [Code Analysis](#code-analysis)
     - [Build Tools](#build-tools)
     - [Geolocation](#geolocation)
@@ -114,6 +115,11 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [folsom](https://github.com/boundary/folsom) - An Erlang based metrics system inspired by Coda Hale's [metrics](https://github.com/codahale/metrics).
 * [statsderl](https://github.com/lpgauth/statsderl) - A statsd Erlang client.
 * [vmstats](https://github.com/ferd/vmstats) - Tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs.
+
+## Distributed Systems
+*Tools for stress/load testing, latency issues, etc. across microservices.*
+
+* [Typhoon](https://github.com/zalando/typhoon) - Stress and load testing tool for distributed systems that simulates traffic from a test cluster toward a system-under-test (SUT) and visualizes related latencies.
 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
