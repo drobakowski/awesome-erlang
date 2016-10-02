@@ -100,6 +100,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Logging
 *Libraries for generating and working with log files.*
 
+* [cuttlefish](https://github.com/lk-geimfari/cuttlefish) - Small library for colored (ANSI) output in Erlang. 
 * [lager](https://github.com/basho/lager) - A logging framework for Erlang/OTP.
 * [lager_amqp_backend](https://github.com/jbrisbin/lager_amqp_backend) - AMQP RabbitMQ Lager backend.
 * [lager_hipchat](https://github.com/synlay/lager_hipchat) - HipChat backend for lager.
