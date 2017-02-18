@@ -95,6 +95,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Testing
 *Libraries for testing codebases and generating test data.*
 
+* [etest](https://github.com/wooga/etest) - A lightweight, convention over configuration test framework for Erlang
 * [PropEr](https://github.com/manopapad/proper) - A QuickCheck-inspired property-based testing tool for Erlang.
 * [tracerl](https://github.com/esl/tracerl) - Dynamic tracing tests and utilities for Erlang/OTP
 
