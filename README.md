@@ -168,6 +168,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [boss_db](https://github.com/ErlyORM/boss_db) - A sharded, caching, pooling, evented ORM for Erlang.
 * [epgsql](https://github.com/epgsql/epgsql) - PostgreSQL Driver for Erlang.
+* [eredis](https://github.com/wooga/eredis) - Erlang Redis Client
 * [mysql-otp](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 * [pgsql_migration](https://github.com/artemeff/pgsql_migration) – PostgreSQL migrations for Erlang.
 
