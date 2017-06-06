@@ -222,6 +222,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Internet of Things
 *Libraries and tools for interacting with the physical world.*
 * [lemma_erlang](https://github.com/noam-io/lemma_erlang) - A lemma for IDEO's Noam internet-of-things prototyping platform.
+* [emqttd](https://github.com/emqtt/emqttd/) - EMQ - Erlang MQTT Broker.
 
 ## Algorithms and Datastructures
 *Libraries and implementations of algorithms and datastructures.*
