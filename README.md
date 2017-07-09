@@ -55,6 +55,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Supervisor
 *Libraries and tools for supervising Erlang processes.*
 
+* [director](https://github.com/Pouriya-Jahanbakhsh/director) - Fast, powerful and useful process supervisor library with different approaches.
+
 ## Configuration Management
 *Libraries and tools related to configuration management.*
 
