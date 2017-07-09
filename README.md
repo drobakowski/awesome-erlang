@@ -224,6 +224,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [gossiperl](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang.
 * [nat_upnp](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD.
 * [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols.
+* [sockerl](https://github.com/Pouriya-Jahanbakhsh/sockerl) - Library for implementing servers, clients and client pool in TCP protocols.
 
 ## Internet of Things
 *Libraries and tools for interacting with the physical world.*
