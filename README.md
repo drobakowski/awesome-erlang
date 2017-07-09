@@ -162,6 +162,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for working with actors and such.*
 
 * [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory.
+* [lb](https://github.com/Pouriya-Jahanbakhsh/lb) - Load-Balancer for spreading Erlang messages to other processes/ports.
 
 ## Date and Time
 *Libraries for working with dates and times.*
