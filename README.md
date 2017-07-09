@@ -4,6 +4,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 - [Awesome Erlang](#awesome-Erlang)
     - [Package Management](#package-management)
     - [Release Management](#release-management)
+    - [Supervisor](#supervisor)
     - [Configuration Management](#configuration-management)
     - [Codebase Maintenance](#codebase-maintenance)
     - [Web Frameworks](#web-frameworks)
@@ -50,6 +51,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for release management.*
 
 * [relx](https://github.com/erlware/relx) - A release assembler for Erlang.
+
+## Supervisor
+*Libraries and tools for supervising Erlang processes.*
 
 ## Configuration Management
 *Libraries and tools related to configuration management.*
