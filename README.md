@@ -189,6 +189,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [eql](https://github.com/artemeff/eql) - Erlang with SQL or not.
 * [jiffy](https://github.com/davisp/jiffy) - JSON NIFs for Erlang.
+* [miffy](https://github.com/expelledboy/miffy) - Jiffy wrapper which returns pretty maps.
 * [jsonrec](https://github.com/EduardSergeev/jsonrec) - JSON encoder/decoder with the ability to map to records.
 * [jsx](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json.
 * [qsp](https://github.com/artemeff/qsp) - Enhanced query string parser for Erlang.
