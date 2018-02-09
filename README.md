@@ -189,10 +189,10 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [eql](https://github.com/artemeff/eql) - Erlang with SQL or not.
 * [jiffy](https://github.com/davisp/jiffy) - JSON NIFs for Erlang.
-* [miffy](https://github.com/expelledboy/miffy) - Jiffy wrapper which returns pretty maps.
-* [jsonrec](https://github.com/EduardSergeev/jsonrec) - JSON encoder/decoder with the ability to map to records.
 * [jsx](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json.
+* [miffy](https://github.com/expelledboy/miffy) - Jiffy wrapper which returns pretty maps.
 * [qsp](https://github.com/artemeff/qsp) - Enhanced query string parser for Erlang.
+* [rec2json](https://github.com/lordnull/rec2json) - Generate JSON encoder/decoder from record specs.
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
@@ -227,6 +227,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Algorithms and Datastructures
 *Libraries and implementations of algorithms and datastructures.*
 
+* [datum](https://github.com/fogfish/datum) - A pure functional and generic programming for Erlang
 * [erlando](https://github.com/travelping/erlando) - A set of syntax extensions like currying and monads for Erlang.
 * [statebox](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities.
 * [riak_dt](https://github.com/basho/riak_dt) - Erlang library of state based CRDTs.
