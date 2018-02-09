@@ -226,10 +226,10 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Algorithms and Datastructures
 *Libraries and implementations of algorithms and datastructures.*
 
+* [datum](https://github.com/fogfish/datum) - A pure functional and generic programming for Erlang
 * [erlando](https://github.com/travelping/erlando) - A set of syntax extensions like currying and monads for Erlang.
 * [statebox](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities.
 * [riak_dt](https://github.com/basho/riak_dt) - Erlang library of state based CRDTs.
-* [datum](https://github.com/fogfish/datum) - A pure functional and generic programming for Erlang
 
 ## Translations and Internationalizations
 *Libraries providing translations or internationalizations.*
