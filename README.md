@@ -44,8 +44,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Package Management
 *Libraries and tools for package and dependency management.*
 
-* [hex.pm](https://hex.pm/) - A package manager for the Erlang ecosystem.
 * [CoonHub](https://coon.justtech.blog/) - Service for hosting prebuilt Erlang packages.
+* [hex.pm](https://hex.pm/) - A package manager for the Erlang ecosystem.
 
 ## Release Management
 *Libraries and tools for release management.*
@@ -121,8 +121,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Deployment
 *Libraries and tools related to deployment of Erlang/OTP applications.*
 
-* [docker-erlang](https://github.com/synlay/docker-erlang) - Basic Docker Container Images for Erlang/OTP.
 * [Coon](https://github.com/comtihon/coon) - Package manager, build and deploy tool.
+* [docker-erlang](https://github.com/synlay/docker-erlang) - Basic Docker Container Images for Erlang/OTP.
 
 ## Distributed Systems
 *Tools for stress/load testing, latency issues, etc. across microservices.*
@@ -138,10 +138,10 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Build Tools
 *Project build and automation tools.*
 
+* [Coon](https://github.com/comtihon/coon) - Package manager, build and deploy tool.
 * [rebar](https://github.com/rebar/rebar) - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
 * [rebar3](https://github.com/rebar/rebar3) - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
 * [sync](https://github.com/rustyio/sync) - On-the-fly recompiling for Erlang.
-* [Coon](https://github.com/comtihon/coon) - Package manager, build and deploy tool.
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
