@@ -105,6 +105,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [lager_hipchat](https://github.com/synlay/lager_hipchat) - HipChat backend for lager.
 * [lager_loggly](https://github.com/kivra/lager_loggly) - Loggly backend for lager.
 * [lager_smtp](https://github.com/blinkov/lager_smtp) - SMTP backend for lager.
+* [lager_slack](https://github.com/furmanOFF/lager_slack) - Simple Slack backend for lager.
 * [logplex](https://github.com/heroku/logplex) - Heroku log router.
 
 ## Monitoring
