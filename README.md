@@ -206,9 +206,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 
+* [google-token-erlang](https://github.com/ruel/google-token-erlang) - Google ID token verifier for Erlang.
 * [restc](https://github.com/kivra/restclient) - An Erlang REST client
 * [oauth2c](https://github.com/kivra/oauth2_client) - An Erlang oAuth 2 client (uses restc)
-* [google-token-erlang](https://github.com/ruel/google-token-erlang) - Google ID token verifier for Erlang.
 
 ## Networking
 *Libraries and tools for using network related stuff.*
