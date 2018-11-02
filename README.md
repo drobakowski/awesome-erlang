@@ -132,6 +132,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs.
 * [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang.
+* [geas](https://github.com/crownedgrouse/geas) - Geas is a tool that will detect the runnable official Erlang release window for your project, including its dependencies and provides many useful informations.
 
 ## Build Tools
 *Project build and automation tools.*
