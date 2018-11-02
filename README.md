@@ -199,6 +199,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and web tools for developing REST-ful APIs.*
 
 * [leptus](https://github.com/s1n4/leptus) - Leptus is an Erlang REST framework that runs on top of cowboy.
+* [rooster](https://github.com/FelipeBB/rooster) - rooster is a lightweight REST framework that runs on top of mochiweb.
 
 ## Caching
 *Libraries for caching data.*
