@@ -222,8 +222,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 ## Internet of Things
 *Libraries and tools for interacting with the physical world.*
-* [lemma_erlang](https://github.com/noam-io/lemma_erlang) - A lemma for IDEO's Noam internet-of-things prototyping platform.
+
 * [GRiSP](https://grisp.org/) - Run the Erlang VM on an IoT board with many hardware interfaces and low-level drivers using a small realtime unikernel called RTEMS
+* [lemma_erlang](https://github.com/noam-io/lemma_erlang) - A lemma for IDEO's Noam internet-of-things prototyping platform.
 
 ## Algorithms and Datastructures
 *Libraries and implementations of algorithms and datastructures.*
