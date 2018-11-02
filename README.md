@@ -122,6 +122,10 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [docker-erlang](https://github.com/synlay/docker-erlang) - Basic Docker Container Images for Erlang/OTP.
 
+## Distributed Systems
+ *Tools for stress/load testing, latency issues, etc. across microservices.*
+
+ * [Typhoon](https://github.com/fogfish/typhoon) - Stress and load testing tool for distributed systems that simulates traffic from a test cluster toward a system-under-test (SUT) and visualizes related latencies.
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
