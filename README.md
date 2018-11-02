@@ -186,6 +186,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
 
+* [ejsv](https://github.com/patternmatched/ejsv) - Erlang JSON schema validator.
 * [eql](https://github.com/artemeff/eql) - Erlang with SQL or not.
 * [jiffy](https://github.com/davisp/jiffy) - JSON NIFs for Erlang.
 * [jsx](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json.
