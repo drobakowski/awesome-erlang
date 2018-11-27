@@ -31,6 +31,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
     - [Internet of Things](#internet-of-things)
     - [Algorithms and Datastructures](#algorithms-and-datastructures)
     - [Translations and Internationalizations](#translations-and-internationalizations)
+    - [SMSC IP Connectivity](#smsc-ip-connectivity)
     - [Miscellaneous](#miscellaneous)
 - [Resources](#resources)
     - [Websites](#websites)
@@ -240,6 +241,11 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 ## Translations and Internationalizations
 *Libraries providing translations or internationalizations.*
+
+## SMSC IP Connectivity
+*Libraries for SMSC IP protocols.*
+
+* [esmpp](https://github.com/VoyagerInnovations/esmpp) - Library that connects erlang applications to SMSCs via the SMPP v3.4 protocol.
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
