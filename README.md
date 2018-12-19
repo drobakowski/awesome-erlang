@@ -85,6 +85,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for working with HTTP and scraping websites.*
 
 * [bullet](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy.
+* [elli](https://github.com/knutin/elli) - Simple, robust and performant Erlang web server
 * [gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
 * [hackney](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang.
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client.
@@ -94,6 +95,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Testing
 *Libraries for testing codebases and generating test data.*
 
+* [etest](https://github.com/wooga/etest) - A lightweight, convention over configuration test framework for Erlang
 * [PropEr](https://github.com/manopapad/proper) - A QuickCheck-inspired property-based testing tool for Erlang.
 * [tracerl](https://github.com/esl/tracerl) - Dynamic tracing tests and utilities for Erlang/OTP
 
@@ -169,6 +171,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [boss_db](https://github.com/ErlyORM/boss_db) - A sharded, caching, pooling, evented ORM for Erlang.
 * [epgsql](https://github.com/epgsql/epgsql) - PostgreSQL Driver for Erlang.
+* [eredis](https://github.com/wooga/eredis) - Erlang Redis Client
 * [mysql-otp](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 * [pgsql_migration](https://github.com/artemeff/pgsql_migration) – PostgreSQL migrations for Erlang.
 
@@ -235,6 +238,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [datum](https://github.com/fogfish/datum) - A pure functional and generic programming for Erlang
 * [erlando](https://github.com/travelping/erlando) - A set of syntax extensions like currying and monads for Erlang.
+* [rstats](https://github.com/hukl/rstats) - Various statistical distribution algorithms (poisson, exponential, normal etc)
 * [statebox](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities.
 * [riak_dt](https://github.com/basho/riak_dt) - Erlang library of state based CRDTs.
 
