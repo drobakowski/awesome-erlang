@@ -4,6 +4,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 - [Awesome Erlang](#awesome-Erlang)
     - [Package Management](#package-management)
     - [Release Management](#release-management)
+    - [Supervisor](#supervisor)
     - [Configuration Management](#configuration-management)
     - [Codebase Maintenance](#codebase-maintenance)
     - [Web Frameworks](#web-frameworks)
@@ -50,6 +51,11 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for release management.*
 
 * [relx](https://github.com/erlware/relx) - A release assembler for Erlang.
+
+## Supervisor
+*Libraries and tools for supervising Erlang processes.*
+
+* [director](https://github.com/Pouriya-Jahanbakhsh/director) - Fast, powerful and useful process supervisor library with different approaches.
 
 ## Configuration Management
 *Libraries and tools related to configuration management.*
@@ -157,6 +163,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for working with actors and such.*
 
 * [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory.
+* [lb](https://github.com/Pouriya-Jahanbakhsh/lb) - Load-Balancer for spreading Erlang messages to other processes/ports.
 
 ## Date and Time
 *Libraries for working with dates and times.*
@@ -223,6 +230,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [gossiperl](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang.
 * [nat_upnp](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD.
 * [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols.
+* [sockerl](https://github.com/Pouriya-Jahanbakhsh/sockerl) - Library for implementing servers, clients and client pool in TCP protocols.
 
 ## Internet of Things
 *Libraries and tools for interacting with the physical world.*
