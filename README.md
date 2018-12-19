@@ -96,6 +96,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [PropEr](https://github.com/manopapad/proper) - A QuickCheck-inspired property-based testing tool for Erlang.
 * [tracerl](https://github.com/esl/tracerl) - Dynamic tracing tests and utilities for Erlang/OTP
+* [CTTAP](https://github.com/Stratus3D/CTTAP) - A Test Anything Protocol (TAP) producer that integrates with Common Test suites via a CT hook.
 
 ## Logging
 *Libraries for generating and working with log files.*
