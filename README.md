@@ -171,6 +171,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [epgsql](https://github.com/epgsql/epgsql) - PostgreSQL Driver for Erlang.
 * [mysql-otp](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 * [pgsql_migration](https://github.com/artemeff/pgsql_migration) – PostgreSQL migrations for Erlang.
+* [erlang-pure-migrations](https://github.com/bearmug/erlang-pure-migrations) – PostgreSQL/MySQL migrations for Erlang.
 
 ## Queue
 *Libraries for working with event and task queues.*
