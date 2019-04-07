@@ -137,6 +137,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Build Tools
 *Project build and automation tools.*
 
+* [erlang.mk](https://github.com/ninenines/erlang.mk) - A build tool for Erlang that just works. Embrace the power and simplicity of Makefiles.
 * [rebar](https://github.com/rebar/rebar) - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
 * [rebar3](https://github.com/rebar/rebar3) - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
 * [sync](https://github.com/rustyio/sync) - On-the-fly recompiling for Erlang.
@@ -278,3 +279,5 @@ Various resources, such as books, websites and articles, for improving your Erla
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) for details.
+
+
