@@ -38,7 +38,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
     - [Web Reading](#web-reading)
     - [Erlang Reading](#Erlang-reading)
     - [Screencasts](#screencasts)
-- [Other Awesome Lists](#other-awesome-lists)
+- [Meetups and Conferences](#meetups-and-conferences)
 - [Contributing](#contributing)
 
 ## Package Management
@@ -275,6 +275,22 @@ Various resources, such as books, websites and articles, for improving your Erla
 
 ## Screencasts
 *Cool video tutorials.*
+
+# Meetups and Conferences
+
+*A list of meetups and conferences all around the globe.*
+
+## Meetups
+* [Erlang & Elixir SF](https://www.meetup.com/ErlangElixirSF/) - Erlang & Elixir meetup in San Francisco, California
+* [NYC Elixir Meetup](https://www.meetup.com/NYC-Elixir/) - Erlang & Elixir meetup in New York, New York
+* [BEAM Trondheim](https://www.meetup.com/BEAM-Trondheim/) - Erlang & Elixir meetup in Trondheim, Norway
+* [Elixir Phoenix OTP Bangalore](https://www.meetup.com/Elixir-Phoenix-OTP-Bangalore/) - Erlang & Elixir meetup in Bangalore, India
+* [Tricity Elixir User Group](https://www.meetup.com/Elixir-Tricity/) - Erlang & Elixir meetup in Gdansk, Poland
+* [DC |> Elixir](https://www.meetup.com/DC-Elixir/) - Erlang & ELixir meetup in Washington, DC
+* [Elixir Sydney](https://www.meetup.com/sydney-ex/) - Erlang & Elixir meetup in Sydney, Australia
+
+## Conferences
+* [CODE Sync](https://codesync.global/)
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) for details.
