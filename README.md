@@ -5,6 +5,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
     - [Package Management](#package-management)
     - [Release Management](#release-management)
     - [Configuration Management](#configuration-management)
+    - [OS Process Management](#os-process-management)
     - [Codebase Maintenance](#codebase-maintenance)
     - [Web Frameworks](#web-frameworks)
     - [Web Framework Components](#web-framework-components)
@@ -55,6 +56,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools related to configuration management.*
 
 * [stillir](https://github.com/heroku/stillir) - Cache environment variables as Erlang app variables.
+
+## OS Process Management
+* [erlexec](https://github.com/saleyn/erlexec) - OS Process Manager.
 
 ## Codebase Maintenance
 *Libraries and tools to maintain a clean codebase.*
