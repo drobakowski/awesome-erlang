@@ -100,6 +100,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Logging
 *Libraries for generating and working with log files.*
 
+* [bloberl](https://github.com/ricjcosme/bloberl) - Simple log shipping to cloud object storage (S3, GCS and Azure Blob).
 * [lager](https://github.com/basho/lager) - A logging framework for Erlang/OTP.
 * [lager_amqp_backend](https://github.com/jbrisbin/lager_amqp_backend) - AMQP RabbitMQ Lager backend.
 * [lager_hipchat](https://github.com/synlay/lager_hipchat) - HipChat backend for lager.
