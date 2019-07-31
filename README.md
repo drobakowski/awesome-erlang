@@ -141,6 +141,11 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [rebar3](https://github.com/rebar/rebar3) - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
 * [sync](https://github.com/rustyio/sync) - On-the-fly recompiling for Erlang.
 
+## Games
+*Libraries for and implementations of games.*
+
+* [Binbo](https://github.com/DOBRO/binbo) - Chess representation written in pure Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
