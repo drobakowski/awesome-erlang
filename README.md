@@ -16,6 +16,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
     - [Distributed Systems](#distributed-systems)
     - [Code Analysis](#code-analysis)
     - [Build Tools](#build-tools)
+    - [Games](#games)
     - [Geolocation](#geolocation)
     - [Debugging](#debugging)
     - [Actors](#actors)
