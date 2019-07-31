@@ -16,6 +16,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
     - [Distributed Systems](#distributed-systems)
     - [Code Analysis](#code-analysis)
     - [Build Tools](#build-tools)
+    - [Games](#games)
     - [Geolocation](#geolocation)
     - [Debugging](#debugging)
     - [Actors](#actors)
@@ -140,6 +141,11 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [rebar](https://github.com/rebar/rebar) - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
 * [rebar3](https://github.com/rebar/rebar3) - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
 * [sync](https://github.com/rustyio/sync) - On-the-fly recompiling for Erlang.
+
+## Games
+*Libraries for and implementations of games.*
+
+* [Binbo](https://github.com/DOBRO/binbo) - Chess representation written in pure Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
