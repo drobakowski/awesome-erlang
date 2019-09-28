@@ -151,6 +151,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Debugging
 *Libraries and tools for debugging code and applications.*
 
+* [recon](https://github.com/ferd/recon) - A set of tools for debugging and inspecting production environments safely.
 * [tx](https://github.com/kvakvs/tx) - An HTML Erlang term viewer, starts own webserver and displays any term you give it from your Erlang node.
 
 ## Actors
