@@ -21,6 +21,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
     - [Actors](#actors)
     - [Date and Time](#date-and-time)
     - [ORM and Datamapping](#orm-and-datamapping)
+    - [Message Broker](#message-broker)
     - [Queue](#queue)
     - [Authentication](#authentication)
     - [Text and Numbers](#text-and-numbers)
@@ -171,6 +172,11 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [epgsql](https://github.com/epgsql/epgsql) - PostgreSQL Driver for Erlang.
 * [mysql-otp](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 * [pgsql_migration](https://github.com/artemeff/pgsql_migration) – PostgreSQL migrations for Erlang.
+
+## Message Broker
+* Libraries and tools for processing messages.*
+
+* [mx](https://github.com/halturin/mx) - message broker for your Erlang/OTP application with persistent storage.
 
 ## Queue
 *Libraries for working with event and task queues.*
