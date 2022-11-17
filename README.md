@@ -72,6 +72,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang.
 * [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system.
+* [Nova](http://www.novaframework.org) - A simple framework to build a fault-tolerant and distributed web application. [Nova Github](https://github.com/novaframework/nova)
 
 ## Web Framework Components
 *Standalone component from web development frameworks.*
