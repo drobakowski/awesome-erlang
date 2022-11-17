@@ -54,6 +54,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers.
 * [N2O](https://github.com/5HT/n2o) - WebSocket Application Server.
 * [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system.
+* [Nova](http://www.novaframework.org) - A simple framework to build a fault-tolerant and distributed web application. [Nova Github](https://github.com/novaframework/nova)
 
 ## Web Framework Components
 *Standalone component from web development frameworks.*
